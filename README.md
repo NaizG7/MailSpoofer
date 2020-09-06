@@ -4,6 +4,8 @@ To use it Replace ***Victim Email***, *Subject*, *From Name* and ***From Email**
 
 Should replace the index.html (it's the message)
 
+Important (put these files on a Web server with Php Mail)
+
     <?php
     $to = "Victim@Email.com";
     
